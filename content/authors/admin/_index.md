@@ -34,16 +34,16 @@ organizations:
   - name: Central European University
     url: https://networkdatascience.ceu.edu/
 education:
-  courses:
-    - course: PhD in Network and Data Science
-      institution: Central European University
-      year: ""
-    - course: MSc in Theoretical physics
-      institution: Università degli studi di Catania
-      year: ""
-    - course: BSc in Physics
-      institution: Università degli studi di Catania
-      year: ""
+  #courses:
+  - course: PhD in Network and Data Science
+    institution: Central European University
+    year: 2020-2024
+  - course: MSc in Theoretical physics
+    institution: Università degli studi di Catania
+    year: 2018-2020
+  - course: BSc in Physics
+    institution: Università degli studi di Catania
+    year: 2015-2018
 superuser: true
 status:
   icon: ☕️
